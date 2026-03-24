@@ -96,3 +96,16 @@ Mean Sea Level (MSL) 1995-2014 at Ny-Ålesund and Longyearbyen propagated throug
 *Target CRS*: EPSG:5941 (NN2000 height)
 
 * no_kv_HREF2018B_NN54_NN2000.tif
+
+### Norway: ETRS89 ellipsoidal heights -> NN2000:2025 heights
+
+*Source*: [Kartverket](https://kartkatalog.geonorge.no/metadata/hoeydereferansemodell-nn2000/71a73064-59a5-4f03-a0b8-fa5c649c3fc9)  
+*Format*: GeoTIFF converted from BIN  
+*License*: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)  
+*Source CRS*: EPSG:10874 (ETRS89 Ellipsoidal height)  
+*Target CRS*: EPSG:5941 (NN2000:2025 height)
+
+Transform ETRS89 ellipsoidal heights (EPSG:10874) to local height system NN2000:2025 (EPSG:11394).
+The horizontal grid coordinates are referenced to ETRS89.
+
+* no_kv_HREF2025A_NN2000_EUREF89.tif
