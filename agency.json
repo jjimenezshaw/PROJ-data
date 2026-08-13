@@ -54,6 +54,12 @@
         "url": "https://www.swisstopo.admin.ch/en/knowledge-facts/surveying-geodesy/reference-frames/transformations-position.html"
     },
     {
+        "id": "co_igac",
+        "country": "Colombia",
+        "agency":"Instituto Geográfico Agustín Codazzi",
+        "url": "https://www.igac.gov.co/"
+    },
+    {
         "id": "cz_cuzk",
         "country": "Czech Republic",
         "agency":"ČÚZK",
